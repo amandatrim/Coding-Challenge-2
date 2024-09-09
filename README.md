@@ -1,5 +1,7 @@
 # Coding-Challenge-2
 Developing an application to help diners to easily split their bill
+
+
 // Task 1: Tip
 
 let billAmount = 50; 
